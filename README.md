@@ -8,7 +8,7 @@ TensorFlow implementation of [Learning to Infer Unseen Single-/Multi-Attribute-O
 
 **Introduction**
 
-Compositional Zero-shot Learning (CZSL) has been active in recent years. We thereby construct the Multi-Attribute Dataset (MAD) based on the ImageNet dataset and provide MAD freely to promote related research. MAD is used only for non-commercial research and educational purposes. We hold no liability for any undesirable consequence of using the database. All rights of MAD are reserved. Please follow the process described on the [homepage] (http://www.aiar.xjtu.edu.cn/info/1015/2751.htm) and send the signed agreement file to chenhui0622@stu.xjtu.edu.cn for complete use of MAD.
+Compositional Zero-shot Learning (CZSL) has been active in recent years. We thereby construct the Multi-Attribute Dataset (MAD) based on the ImageNet dataset and provide MAD freely to promote related research. MAD is used only for non-commercial research and educational purposes. We hold no liability for any undesirable consequence of using the database. All rights of MAD are reserved. Please follow the process described on the [homepage](http://www.aiar.xjtu.edu.cn/info/1015/2751.htm) and send the signed agreement file to chenhui0622@stu.xjtu.edu.cn for complete use of MAD.
 
 **Details**
 
