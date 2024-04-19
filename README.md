@@ -18,7 +18,7 @@ MAD includes 158 attributes, 309 objects, 8,030 compositions, and 116,099 images
 
 Images and labels are organized by object classes. Each label is organized in a JSON file with the file name corresponding to its image name. That is to say, an image called "img.JPEG" produces a JSON label file called "img.JPEG.json". 
 
-**Flies**
+**Evaluation**
 
 We provide the Python code for the implementation of the newly proposed multi-attribute evaluation metrics Hard and Soft in metric.py.
 
