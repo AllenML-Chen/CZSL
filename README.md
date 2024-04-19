@@ -33,5 +33,4 @@ We provide the Python code for the implementation of the newly proposed multi-at
   volume={45},
   number={10},
   pages={12022-12037},
-  keywords={Visualization;Semantics;Image recognition;Feature extraction;Convolutional neural networks;Training;Linguistics;Unseen attribute-object composition recognition;zero-shot learning;high-level vision;graph convolutional networks;multi-label learning},
   doi={10.1109/TPAMI.2023.3273712}}
